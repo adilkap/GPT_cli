@@ -5,7 +5,7 @@ This script enables a user to use the power of GPT straight from a Command Line 
 
 ## General Setup
 
-Generare and copy an API Key through OpenAI at [this link](https://platform.openai.com/account/api-keys).
+Generate and copy an API Key through OpenAI at [this link](https://platform.openai.com/account/api-keys).
 
 Add the API Token as an environment variable in your ```~/.bash_profile``` like below:
 ```export OPENAI_API_KEY=[API-KEY] ```
