@@ -10,6 +10,7 @@ Generate and copy an API Key through OpenAI at [this link](https://platform.open
 Add the API Token as an environment variable in your ```~/.bash_profile``` : 
 ``` export OPENAI_API_KEY=[API-KEY] ```
 
+Install dependencies for the project using ```pip install```
 
 ## Optional Setup
 
